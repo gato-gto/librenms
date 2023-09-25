@@ -2,7 +2,7 @@
     <div class="panel-body ">
         <div class="pull-left" style="margin-top: 5px;">
             <span style="font-size: 20px;">{{ $title }}</a></span><br>
-            Description
+  test message
     </div>
     </div>
 </div>
