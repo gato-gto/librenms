@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Plugins\ExamplePlugin;
+namespace App\Plugins\NetMap;
 
 use App\Plugins\Hooks\MenuEntryHook;
 
