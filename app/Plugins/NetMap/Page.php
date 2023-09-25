@@ -23,10 +23,10 @@
  * @author     Tony Murray <murraytony@gmail.com>
  */
 
-namespace App\Plugins\ExamplePlugin;
+namespace App\Plugins\NetMap;
 
-use App\Plugins\Hooks\DeviceOverviewHook;
+use App\Plugins\Hooks\PageHook;
 
-class DeviceOverview extends DeviceOverviewHook
+class Page extends PageHook
 {
 }

@@ -23,7 +23,7 @@
  * @author     Tony Murray <murraytony@gmail.com>
  */
 
-namespace App\Plugins\ExamplePlugin;
+namespace App\Plugins\NetMap;
 
 use App\Plugins\Hooks\SettingsHook;
 

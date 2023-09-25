@@ -5,5 +5,5 @@
 !/*.php
 !/Hooks/
 !/Hooks/**
-!/ExamplePlugin/
-!/ExamplePlugin/**
+!/NetMap/
+!/NetMap/**
